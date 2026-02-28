@@ -1,0 +1,82 @@
+---
+title: "Module 2: The Email You've Been Putting Off"
+subtitle: "Draft a difficult message in under a minute"
+---
+
+[10 minutes]{.time-estimate}
+
+## What You'll Practice
+
+- Getting the AI to write in a specific tone for a specific audience
+- Asking for multiple versions of the same message
+- Editing and refining a draft through conversation
+
+## Why Email?
+
+Everyone has an email sitting in their head that they haven't written yet. Maybe it's a follow-up you keep putting off. Maybe it's a request that requires some diplomacy. Maybe you just can't find the right words.
+
+AI assistants are surprisingly good at this — not because they write better than you, but because they write *faster*, and getting a first draft on screen is often the hardest part.
+
+## The Exercise
+
+### Part 1: Write the Email You've Been Avoiding
+
+Think of a real email you need to send (or use the example scenario after this prompt). Paste this into a new conversation:
+
+::: {.prompt-box}
+Draft an email for me. Here's the situation:
+
+- **Who it's to:** <span class="placeholder">[e.g., "my landlord," "a coworker," "a client," "my kid's teacher"]</span>
+- **The situation:** <span class="placeholder">[e.g., "I need to ask for a deadline extension," "I need to follow up on something they promised two weeks ago," "I need to decline an invitation without burning a bridge"]</span>
+- **What I want to accomplish:** <span class="placeholder">[e.g., "get the extension without seeming irresponsible," "get a clear answer without being aggressive"]</span>
+- **Tone:** <span class="placeholder">[e.g., "professional but warm," "firm but not rude," "apologetic but with a clear ask"]</span>
+- **Length:** Keep it under <span class="placeholder">[e.g., "5 sentences"]</span>
+:::
+
+**Don't have an email in mind?** Use this scenario:
+
+> *You're a volunteer on a community event committee. Another volunteer committed to handling decorations three weeks ago but hasn't done anything, and the event is in 10 days. You need to follow up without making it awkward, since you'll keep working with this person on future events.*
+
+### Part 2: Get a Different Angle
+
+Now ask for a second version. Same situation, different approach:
+
+::: {.followup-box}
+Give me a second version. This time, be more direct — I want them to know this is time-sensitive without being confrontational.
+:::
+
+::: {.notice-box}
+Compare the two drafts. They address the same situation with different strategies. One might be warmer, the other more urgent. You're not starting from scratch each time — you're choosing between approaches. That's the power here: generating options is fast, which means you spend your time *choosing* instead of *writing*.
+:::
+
+### Part 3: Fine-tune It
+
+Pick whichever version you liked better and refine it:
+
+::: {.followup-box}
+I like the second version better. But soften the opening line — I don't want it to feel like I'm calling them out immediately. And add a line offering to help if they're overwhelmed.
+:::
+
+::: {.notice-box}
+You just gave editorial direction: keep this, change that, add something. The AI revised a specific part of the draft without losing the rest. This is the workflow — rough draft, then targeted edits through conversation. Much faster than staring at a blank compose window.
+:::
+
+## A Note About Your Voice
+
+AI-drafted emails can sound generic if you don't give enough direction. The more specific you are about tone, audience, and what you want to accomplish, the more the output sounds like *you* instead of a template.
+
+If the draft doesn't sound right, tell the AI what's off: *"This sounds too formal for how I actually talk to this person"* or *"I'd never start an email with 'I hope this finds you well' — make it more casual."*
+
+## Evaluate Honestly
+
+- Would you actually send either draft (with minor edits)?
+- How long would it have taken you to write this email from scratch?
+- Did the second version offer a meaningfully different approach, or just different words?
+
+::: {.try-it}
+**Go further if you want:** Think of a message you need to send on a different channel — a text, a Slack message, a LinkedIn note. Try the same exercise but specify the platform: *"This is a text message, keep it brief and casual"* or *"This is a LinkedIn message to someone I don't know well."*
+:::
+
+---
+
+[Next: Module 3 — Learn Something New →](03-learn-something.qmd)

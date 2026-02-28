@@ -1,0 +1,108 @@
+---
+title: "Before You Start"
+subtitle: "Pick your tool, set it up, lock it down"
+---
+
+[5 minutes]{.time-estimate}
+
+## Step 1: Pick Your Platform
+
+All three major AI assistants will work for this course. Pick whichever one you already have an account on, or whichever sounds most interesting. You can always try another one later.
+
+| | Claude | ChatGPT | Gemini |
+|---|---|---|---|
+| **Made by** | Anthropic | OpenAI | Google |
+| **Website** | [claude.ai](https://claude.ai) | [chatgpt.com](https://chatgpt.com) | [gemini.google.com](https://gemini.google.com) |
+| **Free tier** | Yes | Yes | Yes |
+| **Good for** | Writing, analysis, long documents | General purpose, image generation | Google Workspace users, video |
+
+No wrong answers here. They all handle the exercises in this course well.
+
+
+## Step 2: Create Your Account
+
+Go to the website for your chosen platform, sign up, and log in. That's it. No software to install.
+
+
+## Step 3: Protect Your Privacy
+
+Before you type anything, take 30 seconds to adjust your privacy settings. This is good practice regardless of which tool you use.
+
+**The short version:** AI companies can use your conversations to improve their systems. You can turn this off. You should.
+
+::: {.platform-claude}
+Anthropic does **not** use your conversations for training by default on paid plans. On the free plan, you can opt out:
+
+1. Click your name (bottom left)
+2. Go to **Settings**
+3. Under **Privacy**, make sure you're comfortable with the settings shown
+4. You can delete any conversation anytime
+:::
+
+::: {.platform-chatgpt}
+By default, OpenAI **can** use your conversations for training. Turn it off:
+
+1. Click your profile icon (top right)
+2. Go to **Settings** → **Data Controls**
+3. Find **"Improve the model for everyone"**
+4. **Toggle it OFF**
+
+Also good to know: **Temporary Chat** mode (dropdown at the top of a new chat) doesn't save to history and is never used for training.
+:::
+
+::: {.platform-gemini}
+Google's data practices depend on your Google account settings:
+
+1. Go to [myactivity.google.com/product/gemini](https://myactivity.google.com/product/gemini)
+2. You can pause Gemini Apps Activity here
+3. With activity paused, conversations aren't saved long-term or used for training
+
+Also: If you use a Google Workspace account through your employer, your admin controls these settings.
+:::
+
+**General rule for all platforms:** Don't paste in passwords, financial account numbers, medical records, or anything you'd be uncomfortable seeing in a data breach. Use hypothetical examples or change identifying details when practicing.
+
+
+## Step 4: Tell It Who You Are
+
+This is the single most impactful thing you can do before starting the exercises. It takes two minutes and makes every conversation better.
+
+You're going to tell the AI a little about yourself — your name, what you do, and how you prefer to communicate. This means it won't start every conversation assuming you're a generic stranger.
+
+::: {.platform-claude}
+1. Click your name (bottom left) → **Settings** → **Profile**
+2. In the **User Preferences** section, write something like:
+
+> My name is [your name]. I work as a [your role]. I prefer clear, direct answers. When explaining something technical, assume I'm a smart person who's new to the topic, not an expert.
+
+3. Save.
+:::
+
+::: {.platform-chatgpt}
+1. Click your profile icon → **Settings** → **Personalization** → **Custom Instructions**
+2. In **"What would you like ChatGPT to know about you?"**:
+
+> My name is [your name]. I work as a [your role]. I'm practical and prefer concise answers.
+
+3. In **"How would you like ChatGPT to respond?"**:
+
+> Be clear and direct. Skip long introductions. If I ask something simple, give me a simple answer.
+
+4. Save.
+:::
+
+::: {.platform-gemini}
+1. Go to [gemini.google.com/saved-info](https://gemini.google.com/saved-info) (or Settings → Saved info)
+2. Click **Add new info**
+3. Add entries like:
+
+> My name is [your name]. I work as a [your role]. I prefer clear, direct answers without a lot of preamble.
+
+Alternatively, in any Gemini conversation, you can say: *"Remember that my name is [name] and I prefer concise answers."*
+:::
+
+That's it. You're set up. Every exercise from here forward will work better because the AI now knows a little about who it's talking to.
+
+---
+
+Ready for your first real exercise? [Start Module 1 →](01-first-conversation.qmd)

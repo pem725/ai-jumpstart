@@ -1,0 +1,112 @@
+---
+title: "Quick Reference"
+subtitle: "Platform comparison and prompting cheat sheet"
+---
+
+## Platform Comparison
+
+| Feature | Claude | ChatGPT | Gemini |
+|---|---|---|---|
+| **Free tier** | Yes | Yes | Yes |
+| **Paid plan** | $20/month (Pro) | $20/month (Plus) | $20/month (Advanced) |
+| **Web search** | Built-in | Built-in | Built-in (Google) |
+| **Deep research** | Yes | Yes | Yes (Advanced) |
+| **File uploads** | Yes | Yes | Yes |
+| **Image generation** | No | Yes (DALL-E) | Yes (Imagen) |
+| **Voice conversations** | Limited | Yes | Yes |
+| **File creation** | Word, PDF, spreadsheets, slides | Via Canvas + code | Google Docs export |
+| **Workspaces** | Projects | Projects | Gems |
+| **Memory** | Automatic + manual | Automatic + manual | Saved Info + auto |
+| **Private mode** | Incognito | Temporary Chat | Pause Activity |
+
+## Privacy Settings — Quick Setup
+
+| Platform | What to do | Where |
+|---|---|---|
+| **Claude** | Review privacy settings | Settings → Privacy |
+| **ChatGPT** | Toggle off "Improve the model for everyone" | Settings → Data Controls |
+| **Gemini** | Pause Gemini Apps Activity | [myactivity.google.com](https://myactivity.google.com/product/gemini) |
+
+## Personalization — Quick Setup
+
+| Platform | What to do | Where |
+|---|---|---|
+| **Claude** | Set user preferences | Settings → Profile |
+| **ChatGPT** | Set Custom Instructions | Settings → Personalization |
+| **Gemini** | Add Saved Info | [gemini.google.com/saved-info](https://gemini.google.com/saved-info) |
+
+## Prompting Cheat Sheet
+
+### Start Strong
+
+Bad: *"Help me with a thing."*
+
+Good: *"I need to [specific task]. Here's the context: [details]. The audience is [who]. I want the tone to be [how]. Keep it under [length]."*
+
+The more specific your request, the better the output. Details aren't optional — they're the difference between generic and useful.
+
+### Useful Follow-up Patterns
+
+| What you want | What to say |
+|---|---|
+| Shorter | "Cut this in half. Keep only the essential points." |
+| More specific | "The section on [X] is too vague. Add concrete examples." |
+| Different tone | "Rewrite this for [audience]. It should sound [tone]." |
+| Reorganized | "Move [section] before [section]. The current order doesn't flow." |
+| Simplified | "A smart 12-year-old should understand this. Rewrite accordingly." |
+| More critical | "What's wrong with this? What am I missing? Be honest." |
+| Different angle | "Now argue the opposite position with the same rigor." |
+| Self-check | "Review what you just wrote for errors, gaps, and weak reasoning." |
+
+### Role-Setting Phrases
+
+Telling the AI to respond from a specific perspective changes what it prioritizes:
+
+- *"You are an experienced [role]..."*
+- *"Respond as if you're a [role] advising a client..."*
+- *"Think about this from the perspective of a [role]..."*
+
+### When the Output Isn't Good
+
+Don't accept mediocre results. Push back:
+
+- *"That's too generic. Be more specific to my situation."*
+- *"You're over-explaining. I already know [X]. Skip to the part I don't know."*
+- *"This doesn't sound like me. Here's how I'd actually say it: [example]."*
+- *"That fact doesn't sound right. Can you verify it?"*
+- *"Start over with a different approach. That angle isn't working."*
+
+## What AI Is Good At (and Not)
+
+### Strong
+
+- Drafting and editing text (emails, reports, documents)
+- Explaining and teaching concepts at any level
+- Brainstorming ideas and options
+- Organizing messy information into structure
+- Analyzing tradeoffs and decisions
+- Summarizing long documents
+- Translating between audiences (technical to non-technical, etc.)
+- Writing and explaining code
+
+### Weaker
+
+- Precise math beyond basic arithmetic (it can get calculations wrong)
+- Very recent events (web search helps, but verify)
+- Highly specialized or niche professional knowledge (it's broad, not always deep)
+- Predictions and forecasts (it doesn't know the future)
+- Anything requiring access to your personal systems or accounts
+
+### Needs Caution
+
+- Factual claims (verify anything you'll act on)
+- Legal, medical, or financial advice (use as a starting point, not a final answer)
+- Sensitive personal information (don't share what you wouldn't want stored)
+
+## Further Reading
+
+- **Claude:** [docs.claude.com](https://docs.claude.com)
+- **ChatGPT:** [help.openai.com](https://help.openai.com)
+- **Gemini:** [support.google.com/gemini](https://support.google.com/gemini)
+
+*AI platforms update features frequently. When something in this guide doesn't match what you see, check the platform's documentation for the latest.*

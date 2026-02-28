@@ -1,0 +1,118 @@
+---
+title: "Module 4: Tame the Chaos"
+subtitle: "Turn messy notes into a real document"
+---
+
+[15 minutes]{.time-estimate}
+
+## What You'll Practice
+
+- Feeding the AI rough, unstructured content and getting organized output
+- Directing revisions like an editor: "more here, less there"
+- Keeping your voice in a document someone else (sort of) wrote
+
+## Why Document Writing?
+
+Everyone has a version of this problem: you know what you want to say, but the notes are scattered across sticky notes, a notebook, a few bullet points on your phone, and your head. Turning that into something structured and coherent takes time. Lots of time.
+
+AI assistants are remarkably good at imposing structure on chaos. You pour in the raw material, and they organize it. Then you direct: expand this section, cut that one, change the tone here. You're the editor, not the typist.
+
+## The Exercise
+
+### Part 1: Dump Your Notes
+
+You'll need some rough notes for this exercise. You can use your own, or use the sample below.
+
+**If you have real notes:** Pull up any set of messy notes — bullet points from a meeting, a rough outline for a project, notes from a phone call, ideas for something you're planning. They don't need to be polished. The messier, the better.
+
+**If you want a sample to practice with:**
+
+> Here are some rough notes to use:
+>
+> - PTA fundraiser needs to happen before end of April
+> - Last year raised $4,200 with the bake sale but it was a ton of work
+> - Maybe do something different this year? Silent auction? Fun run?
+> - Need minimum 6 volunteers, ideally 10
+> - Budget for supplies: probably $200-300 from PTA account
+> - Principal wants to tie it to the school's reading initiative somehow
+> - We should promote it at least 3 weeks in advance
+> - Food trucks instead of bake sale? Less liability
+> - Venue: school gym or outside if weather is good
+> - Need to pick a date — avoid conflict with spring sports schedule
+> - Someone suggested a "read-a-thon" where kids get sponsors per book/chapter
+> - That could tie into the reading thing and also be low-cost to run
+
+Paste this into a new conversation:
+
+::: {.prompt-box}
+Here are my rough notes for <span class="placeholder">[what the document is — e.g., "a proposal to the PTA board," "a project plan for my team," "a summary of my meeting with a client"]</span>. Turn this into a structured document with an introduction, clear sections, and a summary or next-steps section. Keep my voice — don't make it sound overly formal or corporate.
+
+Here are the notes:
+
+<span class="placeholder">[paste your notes here]</span>
+:::
+
+::: {.notice-box}
+Look at what it did with your raw input. It found a logical structure — probably grouping related ideas, identifying the main themes, and ordering things in a way that flows. Your notes were ingredients. The AI made a meal.
+:::
+
+### Part 2: Edit Like a Director
+
+Read through the draft. Find something you want to change. Send a targeted revision:
+
+::: {.followup-box}
+The section on <span class="placeholder">[topic]</span> is too vague. Add more detail there — specifically <span class="placeholder">[what's missing]</span>. Also, the introduction is too long. Cut it to 2-3 sentences.
+:::
+
+Try another:
+
+::: {.followup-box}
+Move the section about <span class="placeholder">[topic]</span> earlier in the document — it should come before <span class="placeholder">[other topic]</span> because <span class="placeholder">[reason]</span>.
+:::
+
+::: {.notice-box}
+You're not writing. You're directing. "More here. Less there. Reorder this." That's a fundamentally different (and faster) way to produce a document. The thinking is still yours — the formatting and prose work is offloaded.
+:::
+
+### Part 3: Polish the Tone
+
+Now fine-tune how it reads:
+
+::: {.followup-box}
+The tone is too <span class="placeholder">[stiff / casual / wordy / dry]</span> for my audience. This is going to <span class="placeholder">[who will read it — e.g., "a volunteer committee who are parents, not corporate people"]</span>. Make it sound like a smart, organized person wrote it — not a robot and not a CEO.
+:::
+
+::: {.notice-box}
+Tone is the hardest thing to get right in writing. The AI's first draft often defaults to a neutral-formal voice. Telling it who the audience is and what feel you want makes a big difference. If it's still off, be more specific: "Write it the way I'd explain this to a friend who asked what I've been working on."
+:::
+
+## Getting the Document Out
+
+Once you're happy with the content, you probably want to use it somewhere. Here's how, depending on your platform:
+
+::: {.platform-claude}
+Claude can create actual downloadable files — Word documents, PDFs, and more. Say: *"Turn this into a Word document I can download."* A download link will appear in the conversation.
+:::
+
+::: {.platform-chatgpt}
+ChatGPT can open a side panel called **Canvas** for collaborative editing. Say *"Open this in Canvas"* and you can edit specific sections directly. You can also say *"Create a document I can download."*
+:::
+
+::: {.platform-gemini}
+Gemini integrates with Google Workspace. Say *"Export this to Google Docs"* if you're using a Google account, or simply copy the text from the conversation.
+:::
+
+## Evaluate Honestly
+
+- Did the structure make sense for your content?
+- How much of the draft would you keep as-is vs. rewrite?
+- Did the editing process (revisions via conversation) feel faster than writing from scratch?
+- Did it capture your voice, or did it sound like someone else?
+
+::: {.try-it}
+**Go further if you want:** Take any document you've already written — an email, a report, a plan — and paste it in with this prompt: *"Review this document for clarity and organization. What could be structured better? What's unclear? Don't rewrite it — just give me specific feedback."* Using the AI as an editor instead of a writer is a different and equally useful skill.
+:::
+
+---
+
+[Next: Module 5 — Think It Through →](05-think-it-through.qmd)

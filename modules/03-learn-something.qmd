@@ -1,0 +1,92 @@
+---
+title: "Module 3: Learn Something New"
+subtitle: "Get an explanation that actually makes sense to you"
+---
+
+[15 minutes]{.time-estimate}
+
+## What You'll Practice
+
+- Asking the AI to teach you something at your level
+- Using what you already know as a bridge to new concepts
+- Getting a hands-on exercise to reinforce what you learned
+
+## Why Learning?
+
+We all have a list of things we've been meaning to understand better. Maybe it's a skill for work, a topic your kid asked about, or something you read about and wanted to dig into. The problem isn't motivation — it's that most explanations are either too basic (you already know that part) or too advanced (you're lost by sentence three).
+
+AI assistants are good at calibrating explanations because you can tell them exactly where you're starting from. They adjust in real time, and they never make you feel slow for asking a follow-up question.
+
+## The Exercise
+
+### Part 1: Pick Your Topic
+
+Choose something you've genuinely been curious about. It can be anything — a skill, a concept, a subject area. Here are some ideas if nothing comes to mind:
+
+- How does a mortgage amortization schedule work?
+- What is the basics of how a car engine works?
+- How does my Wi-Fi router actually move data around?
+- What are the basics of investing in index funds?
+- How does bread rise? (The science, not the recipe.)
+- What's the difference between a virus and a bacterial infection?
+
+Got your topic? Good. Paste this into a new conversation:
+
+::: {.prompt-box}
+I want to understand <span class="placeholder">[your topic]</span>.
+
+Here's where I'm starting from: <span class="placeholder">[what you already know — e.g., "I know the basics of how loans work but I've never understood what amortization actually means" or "I know nothing about this"]</span>.
+
+My background is <span class="placeholder">[e.g., "I'm a teacher," "I work in sales," "I'm a stay-at-home parent," "I'm a student"]</span> — use that to pick analogies and examples that connect to things I already know.
+
+Explain it clearly. No jargon unless you define it first. If there's a key concept I need to understand before the rest makes sense, start there.
+:::
+
+::: {.notice-box}
+Look at how it structured the explanation. Did it start with the foundational concept? Did the analogies connect to your background? If you told it you're a teacher, it might use classroom analogies. If you're in sales, it might frame things in terms of deals and negotiations. That's not a parlor trick — it's the AI using your context to make the explanation stick.
+:::
+
+### Part 2: Go Deeper on the Part That Interests You
+
+Find the part of the explanation that made you want to know more. Send a follow-up:
+
+::: {.followup-box}
+That section about <span class="placeholder">[specific part]</span> — I want to go deeper there. Why does that work that way? Give me a concrete example.
+:::
+
+::: {.notice-box}
+You're steering the conversation now. It didn't decide what's interesting to you — you did. This is the difference between reading an article (fixed path) and having a tutor (flexible path). You go where your curiosity leads.
+:::
+
+### Part 3: Make It Hands-On
+
+Ask for something you can actually do:
+
+::: {.followup-box}
+Give me a short hands-on exercise I can do in 10–15 minutes to practice or test what I just learned. Use things I'd have at home or can find easily online.
+:::
+
+::: {.notice-box}
+The exercise it gives you might be surprisingly practical. For a finance topic, it might have you build a simple spreadsheet. For a science concept, it might suggest a kitchen experiment. For a technical skill, a small practice task. This is where learning transitions from "I read about it" to "I tried it."
+:::
+
+## A Note About Accuracy
+
+AI assistants are good at explaining concepts clearly, but they can occasionally get details wrong — especially with very specific numbers, dates, or cutting-edge research. For learning purposes, they're excellent as a *starting point* and a *thinking partner*. For anything you'd stake a decision on, verify the key facts with a reliable source.
+
+If something in the explanation doesn't sound right to you, say so: *"That doesn't match what I've heard about [X] — can you double-check?"* The AI will often catch its own mistakes when prompted.
+
+## Evaluate Honestly
+
+- Did the explanation make more sense than what you'd find from a typical web search?
+- Did the analogies actually connect to your experience?
+- Was the hands-on exercise something you could realistically do?
+- What would you want explained differently?
+
+::: {.try-it}
+**Bonus — Explain it to a kid:** If you have children or nieces/nephews, try this: *"Now explain [same topic] to a [age]-year-old. Use language they'd understand and suggest a fun activity we could do together to explore it."* It's a great way to see the AI shift gears dramatically — and the activities are often genuinely good.
+:::
+
+---
+
+[Next: Module 4 — Tame the Chaos →](04-tame-the-chaos.qmd)

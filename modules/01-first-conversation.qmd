@@ -1,0 +1,88 @@
+---
+title: "Module 1: Your First Conversation"
+subtitle: "Plan a week of dinners in two minutes"
+---
+
+[10 minutes]{.time-estimate}
+
+## What You'll Practice
+
+- Giving an AI assistant a specific, detailed request
+- Seeing how it handles follow-up changes without starting over
+- Getting a feel for the back-and-forth conversation
+
+## Why Meal Planning?
+
+Everyone eats. Everyone has opinions about food. You don't need any special knowledge to judge whether a meal plan is good — you can just read it and decide. That makes this a perfect first exercise: low stakes, immediately useful, easy to evaluate.
+
+## The Exercise
+
+### Part 1: Get a Meal Plan
+
+Open a new conversation in your AI assistant and paste in the prompt below. Before you hit send, **customize the parts in red** to match your actual household.
+
+::: {.prompt-box}
+I need a weeknight dinner plan for Monday through Friday. Here's what I'm working with:
+
+- Family of <span class="placeholder">[number of people, e.g., "4 — two adults, two kids ages 8 and 5"]</span>
+- Dietary restrictions: <span class="placeholder">[list any, or "none" — e.g., "no shellfish, one kid won't eat mushrooms"]</span>
+- Weeknight cooking time: about <span class="placeholder">[e.g., "30 minutes"]</span>, except <span class="placeholder">[day]</span> when I have more time
+- Budget: <span class="placeholder">[e.g., "moderate — nothing fancy, but not ramen every night"]</span>
+
+Give me the meal plan AND a consolidated grocery list organized by store section (produce, dairy, meat, pantry, frozen).
+:::
+
+Hit send. Read what comes back.
+
+::: {.notice-box}
+Look at the grocery list. It pulled ingredients from five different meals and combined them into one organized shopping list. That's the kind of tedious mental work that takes 15–20 minutes to do by hand.
+:::
+
+### Part 2: Change Something
+
+Now imagine your schedule changes. Maybe Wednesday is suddenly hectic. Send this follow-up in the *same conversation*:
+
+::: {.followup-box}
+Actually, <span class="placeholder">[day]</span> is going to be really busy. Swap that meal for something I can make in 15 minutes using things most people already have in the pantry.
+:::
+
+::: {.notice-box}
+It didn't just swap the meal — it updated the grocery list too. Things you no longer need are removed. Anything new is added. It's holding the full context of your plan and adjusting everything downstream.
+:::
+
+### Part 3: Get Specific
+
+Try one more follow-up. Push it a little:
+
+::: {.followup-box}
+One of the kids is a picky eater who mainly likes pasta and plain chicken. Can you adjust the plan so at least 2 of the 5 nights work for them without a separate meal?
+:::
+
+::: {.notice-box}
+This is where it gets interesting. You're not just retrieving recipes — you're asking it to solve a constraint problem. It needs to balance variety, your cooking time, the picky eater's preferences, and still keep a coherent grocery list. Watch how it handles (or doesn't handle) all of those at once.
+:::
+
+## What Just Happened
+
+You had a *conversation*. The first answer was a starting point. Each follow-up refined it based on new information. The AI kept all the context — the family size, the dietary restrictions, the time constraints — and adjusted everything together.
+
+This is the core skill for using any AI assistant: start with a clear request, then iterate. The first answer is a first draft. The conversation is where it gets good.
+
+## Evaluate Honestly
+
+Ask yourself:
+
+- Was the meal plan reasonable? Would you actually cook any of these meals?
+- Did the grocery list make sense?
+- How long does this planning normally take you?
+- What would you change about the output?
+
+If the plan was generic or bad — that's useful information too. Try being more specific in your prompt (mention cuisines you like, specific ingredients you have on hand, favorite meals to riff on). More detail in, better output out.
+
+::: {.try-it}
+**Go further if you want:** Ask it to estimate the total grocery cost for the week, or ask for a version where you batch-prep ingredients on Sunday to save time on weeknights. See how it adapts.
+:::
+
+---
+
+[Next: Module 2 — The Email You've Been Putting Off →](02-email-you-dread.qmd)

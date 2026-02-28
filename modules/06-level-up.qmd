@@ -1,0 +1,182 @@
+---
+title: "Module 6: Level Up"
+subtitle: "Techniques that make AI assistants dramatically more useful"
+---
+
+[20 minutes]{.time-estimate}
+
+## What You'll Practice
+
+- Iteration: getting better results through back-and-forth
+- Role-setting: giving the AI an expertise to operate from
+- Using AI to check its own work
+- Platform features that go beyond basic chat
+
+## Why This Module?
+
+If you've done the previous modules, you know the basics: give the AI a clear request, iterate, get useful output. This module covers the techniques that separate "it's pretty helpful" from "I can't imagine working without this."
+
+None of these are tricks or hacks. They're just patterns that consistently produce better results.
+
+## Technique 1: Set a Role
+
+You've been talking to a general-purpose assistant. But you can tell it to think from a specific perspective, and the quality of the output changes noticeably.
+
+::: {.prompt-box}
+You are an experienced <span class="placeholder">[role — e.g., "event planner," "financial advisor," "elementary school teacher," "project manager," "editor"]</span>. I'm going to describe a situation and I want you to respond from that professional perspective.
+
+<span class="placeholder">[describe your situation or question]</span>
+:::
+
+Try it with two different roles for the same question and compare the answers. An event planner and a budget analyst will give you very different takes on "how should we organize this fundraiser?"
+
+::: {.notice-box}
+The AI's output shifts — not just in tone but in *what it prioritizes*. An editor focuses on clarity and structure. A project manager focuses on timelines and dependencies. A teacher focuses on comprehension and engagement. You're controlling the lens.
+:::
+
+## Technique 2: Iterate on Purpose
+
+The most common mistake new users make is accepting the first answer. The real skill is knowing how to push for better output. Here's a pattern:
+
+1. **Start broad.** Get the first draft.
+2. **Identify what's off.** Too long? Too vague? Wrong tone? Missing something?
+3. **Give specific direction.** Don't say "make it better." Say what "better" means.
+
+Some useful follow-up phrases:
+
+::: {.followup-box}
+That's a good start, but:
+- The section on <span class="placeholder">[X]</span> is too vague. Give me specific examples.
+- Cut the length by half. Keep the key points, lose the filler.
+- This reads like a textbook. Rewrite it like you're explaining it to a friend.
+- You missed <span class="placeholder">[important thing]</span>. Add it and explain why it matters.
+- Assume your audience already knows <span class="placeholder">[basic concept]</span>. Don't explain it — use it.
+:::
+
+Each follow-up makes the output better because you're adding information the AI didn't have: your taste, your standards, your audience's needs. Three rounds of revision usually gets you something usable. Five rounds gets you something good.
+
+## Technique 3: Ask It to Check Its Own Work
+
+AI assistants can be wrong. They can also catch their own mistakes if you ask them to look again. This is one of the most underused techniques:
+
+::: {.prompt-box}
+Review what you just wrote. Check for:
+- Factual claims that might be wrong or out of date
+- Logic gaps — places where the argument doesn't follow
+- Anything important that's missing
+- Places where you're being vague instead of specific
+
+Be honest about what you got wrong.
+:::
+
+::: {.notice-box}
+It will often catch things it missed the first time. Not always — don't treat self-review as a guarantee of accuracy. But it's a free second pass that frequently improves the output.
+:::
+
+## Technique 4: Give It Examples of What You Want
+
+If you want the AI to produce something in a specific style or format, show it:
+
+::: {.prompt-box}
+I want you to write <span class="placeholder">[type of thing]</span> in the following style. Here's an example of what I'm looking for:
+
+<span class="placeholder">[paste an example — a paragraph, a message, a format]</span>
+
+Now write <span class="placeholder">[what you want]</span> in that same style and format.
+:::
+
+This works for everything — email tone, report structure, writing voice, formatting conventions. Showing is almost always more effective than describing.
+
+## Technique 5: Use Platform Features
+
+Each platform has features beyond the basic chat that make specific tasks easier. Here are the high-value ones:
+
+### Web Search
+
+All three platforms can search the internet during a conversation, giving you current information.
+
+::: {.platform-claude}
+Claude searches the web automatically when it needs current information. You can also ask directly: *"Search for the latest [topic] and summarize what you find."*
+:::
+
+::: {.platform-chatgpt}
+ChatGPT browses the web automatically. You can also prompt it: *"Search for..."* to trigger a search explicitly.
+:::
+
+::: {.platform-gemini}
+Gemini has built-in Google Search grounding. It automatically searches when it detects a query that benefits from current data.
+:::
+
+### Deep Research
+
+When you need thorough research on a complex topic (not just a quick answer), all three platforms now have a research mode that does multiple searches, reads sources, and compiles a comprehensive report.
+
+::: {.platform-claude}
+Look for the **Deep Research** option. It runs an extended research process and delivers a detailed report with sources.
+:::
+
+::: {.platform-chatgpt}
+Select **Deep Research** from the model dropdown before starting your conversation.
+:::
+
+::: {.platform-gemini}
+Available in Gemini Advanced. Select **Deep Research** from the model options.
+:::
+
+### File Uploads
+
+You can upload documents, images, and spreadsheets into the conversation.
+
+::: {.prompt-box}
+<span class="placeholder">[Upload a file]</span>
+
+I've attached <span class="placeholder">[what the file is]</span>. Please <span class="placeholder">[what you want done — "summarize the key points," "find errors in this spreadsheet," "suggest improvements to this document," "extract all the action items"]</span>.
+:::
+
+This is powerful for working with existing documents. Upload a PDF and ask for a summary. Upload a spreadsheet and ask what the data tells you. Upload a photo and ask the AI to describe or analyze what it sees.
+
+### Workspaces
+
+For ongoing projects, set up a dedicated workspace so the AI always has your context.
+
+::: {.platform-claude}
+**Projects:** Create a new Project in the sidebar. Upload relevant files and set custom instructions. Every conversation in the project shares that context.
+:::
+
+::: {.platform-chatgpt}
+**Projects:** Click the "+" next to Projects in the sidebar. Upload files and add instructions. Same concept as Claude's Projects.
+:::
+
+::: {.platform-gemini}
+**Gems:** Create a custom Gem (Gem Manager → New Gem). Write instructions, attach files or link Google Drive documents. Each Gem is a specialized assistant for a specific task.
+:::
+
+## The Honest Limitations
+
+As you use AI assistants more, you'll discover their edges. It's worth knowing these up front:
+
+**They make things up.** Not often, but it happens. They'll state something confidently that isn't true. For anything that matters — dates, prices, statistics, medical information, legal details — verify with a reliable source.
+
+**They don't know what they don't know.** If you ask about something very recent or very niche, the AI might not have good information. It usually won't tell you it's guessing — it'll just give you its best answer. Search features help with recent information, but always evaluate critically.
+
+**They're better with some tasks than others.** Writing, analysis, brainstorming, explaining concepts, organizing information — these are strong suits. Precise math (beyond basics), real-time data, predictions about the future — these are weaker.
+
+**Your data is going somewhere.** You adjusted your privacy settings in Module 0. That was important. Continue being thoughtful about what you share. Don't paste in anything you'd be uncomfortable having stored on a server, even temporarily.
+
+## What to Do Next
+
+There's no Module 7. From here, the best way to learn is to use the tool on real tasks. Every time you face a task that involves writing, researching, organizing, analyzing, or thinking through a decision, try running it through your AI assistant first. Some tasks it'll handle well. Some it won't. Over time, you'll develop intuition for what it's good at and where it falls short.
+
+A few suggestions:
+
+- **Bring your actual work.** The exercises in this course used general examples. The AI gets more useful the more context you give it about your specific situation.
+- **Build on what works.** If you found the email drafting module helpful, start using it for every difficult email. If the document module clicked, use it for every report. Mastery comes from repetition, not variety.
+- **Talk to other people about what you're finding.** The best use cases often come from someone else saying "I use it for X" and you thinking "I never would have thought of that."
+
+::: {.try-it}
+**Your final exercise:** Think of one recurring task in your life — something you do weekly or monthly that takes more time than it should. Open a new conversation and try to get the AI to help with it. Start specific. Iterate. Judge the result honestly. That's the whole method.
+:::
+
+---
+
+[Quick Reference →](../reference.qmd)

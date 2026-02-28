@@ -1,0 +1,90 @@
+---
+title: "AI Jumpstart"
+subtitle: "A hands-on course for anyone curious about AI assistants"
+page-layout: full
+---
+
+## What This Is
+
+This is a short, self-paced course that teaches you how to use AI assistants through hands-on practice. No lectures. No theory. You open a tool, type a prompt, and see what happens.
+
+You'll work with whichever AI assistant you prefer — **Claude**, **ChatGPT**, or **Google Gemini**. Every exercise includes instructions for all three.
+
+## What This Is Not
+
+This is not a sales pitch for AI. Some of these exercises will impress you. Some won't. The point is for you to see what these tools can actually do *right now* so you can decide for yourself whether they're useful to you.
+
+AI assistants get things wrong sometimes. They make stuff up occasionally. They're tools with real limitations. This course will show you how to use them well *and* how to spot when they're off.
+
+## How the Course Works
+
+Six modules. Each one is a self-contained exercise you can finish in 10–20 minutes. Do them in order or skip to whatever interests you — but **start with "Before You Start"** to get your tool set up.
+
+::: {.module-card}
+### [Before You Start](modules/00-before-you-start.qmd) {.unlisted .unnumbered}
+[5 minutes]{.module-time}
+
+Pick your platform, set it up, and lock down your privacy settings.
+:::
+
+::: {.module-card}
+### [Module 1: Your First Conversation](modules/01-first-conversation.qmd) {.unlisted .unnumbered}
+[10 minutes]{.module-time}
+
+Plan a week of dinners and a grocery list. See how the AI handles changes to your plan in real time.
+:::
+
+::: {.module-card}
+### [Module 2: The Email You've Been Putting Off](modules/02-email-you-dread.qmd) {.unlisted .unnumbered}
+[10 minutes]{.module-time}
+
+Draft a difficult email in under a minute. Then ask for a different version with a different tone.
+:::
+
+::: {.module-card}
+### [Module 3: Learn Something New](modules/03-learn-something.qmd) {.unlisted .unnumbered}
+[15 minutes]{.module-time}
+
+Pick any topic you've been meaning to learn. Get an explanation tailored to what you already know, with a hands-on exercise.
+:::
+
+::: {.module-card}
+### [Module 4: Tame the Chaos](modules/04-tame-the-chaos.qmd) {.unlisted .unnumbered}
+[15 minutes]{.module-time}
+
+Turn a messy pile of notes into a structured document. Direct the AI like an editor: "more here, less there."
+:::
+
+::: {.module-card}
+### [Module 5: Think It Through](modules/05-think-it-through.qmd) {.unlisted .unnumbered}
+[15 minutes]{.module-time}
+
+Bring a real decision you're weighing. Use the AI as a thinking partner to map out options and tradeoffs.
+:::
+
+::: {.module-card}
+### [Module 6: Level Up](modules/06-level-up.qmd) {.unlisted .unnumbered}
+[20 minutes]{.module-time}
+
+Advanced features, iteration techniques, and how to make the AI dramatically more useful over time.
+:::
+
+## Total Time: About 90 Minutes
+
+You don't need to do it all at once. Each module stands alone. But the course is designed so that each one builds a little on the skills you practiced in the last.
+
+## What You'll Need
+
+- A computer or phone with a web browser
+- An account on one (or more) of these platforms:
+  - [Claude](https://claude.ai) — by Anthropic
+  - [ChatGPT](https://chatgpt.com) — by OpenAI
+  - [Google Gemini](https://gemini.google.com) — by Google
+- About 10–20 minutes per module
+- Willingness to try something and see what happens
+
+Free accounts work for everything in this course. Paid accounts give you more features and better models, but they're not required.
+
+---
+
+Ready? [Start with setup →](modules/00-before-you-start.qmd)

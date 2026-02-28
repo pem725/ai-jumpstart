@@ -1,0 +1,27 @@
+---
+title: "About This Course"
+---
+
+## Who Made This
+
+This course was built by a person who uses AI tools daily and got tired of watching friends and family miss out on capabilities they'd find genuinely useful — not because they're resistant, but because nobody showed them what these tools actually do in practical, everyday terms.
+
+The content was designed with help from AI (because of course it was), then edited by a human who cares about getting it right.
+
+## Philosophy
+
+There's too much hype about AI and not enough honest demonstration. This course takes a simple approach: here's a tool, here's a task, try it, judge the result yourself.
+
+If you finish this course and decide AI assistants aren't for you, that's a perfectly valid conclusion. The goal isn't to convert anyone. It's to give you enough firsthand experience to form an informed opinion.
+
+## Feedback
+
+If something in this course doesn't work, is confusing, or could be better — say so. The best improvements come from people who try the exercises and tell us what didn't land.
+
+## Privacy
+
+This is a static website. It doesn't track you, collect data, or use cookies. The exercises happen in your own AI assistant account, not here.
+
+## License
+
+This course is free to use, share, and adapt. If you share it, just point people back to the original so they get any updates.

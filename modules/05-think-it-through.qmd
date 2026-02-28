@@ -1,0 +1,103 @@
+---
+title: "Module 5: Think It Through"
+subtitle: "Use AI as a thinking partner for real decisions"
+---
+
+[15 minutes]{.time-estimate}
+
+## What You'll Practice
+
+- Framing a real decision or problem clearly for the AI
+- Getting structured analysis of options and tradeoffs
+- Pushing back when the AI misses something or takes the wrong angle
+
+## Why Decision-Making?
+
+Up to now, you've asked the AI to produce things: meal plans, emails, documents. This module is different. You're going to use it to *think* — to map out a decision, weigh options, or work through a problem you're stuck on.
+
+This is where AI assistants surprise people the most. Not because they make decisions for you, but because they help you see the full picture faster. They surface tradeoffs you might not have considered, ask questions that clarify your thinking, and organize messy problems into something you can actually evaluate.
+
+## The Exercise
+
+### Part 1: Bring a Real Decision
+
+Think of something you're genuinely weighing. It doesn't have to be momentous. Some examples:
+
+- Should I take on a volunteer commitment I've been asked about?
+- Is it worth switching my kid to a different school/program?
+- Should I push for a change in how something is done at work?
+- We're thinking about renovating vs. moving — what are we not considering?
+- I need to plan a family event — what's the best approach given our constraints?
+
+Got something? Paste this into a new conversation:
+
+::: {.prompt-box}
+I'm trying to decide <span class="placeholder">[what the decision is]</span>.
+
+Here's the situation:
+<span class="placeholder">[describe the key facts — what's at stake, who's involved, what constraints you're working with, what you've already considered]</span>
+
+Here's what's making it hard:
+<span class="placeholder">[what's pulling you in different directions — e.g., "I want X but I'm worried about Y," or "option A is better in some ways but option B is better in others"]</span>
+
+Don't make the decision for me. Instead:
+1. Lay out my options clearly
+2. For each option, what are the main advantages and risks?
+3. What am I probably not considering?
+4. What questions should I answer before I decide?
+:::
+
+::: {.notice-box}
+Look at how it organized your messy thinking. It probably identified options you stated, maybe added one you didn't mention, and structured the tradeoffs in a way you can compare. The "what am I not considering?" section is often the most valuable — it surfaces blind spots.
+:::
+
+### Part 2: Push Back
+
+The AI's analysis will have gaps. It doesn't know everything about your situation, and it sometimes defaults to cautious, balanced advice. Challenge it:
+
+::: {.followup-box}
+Your analysis of <span class="placeholder">[option]</span> assumes <span class="placeholder">[assumption you disagree with]</span>. In my situation, that's not true because <span class="placeholder">[why]</span>. How does that change the analysis?
+:::
+
+Or:
+
+::: {.followup-box}
+You listed <span class="placeholder">[risk]</span> as a downside, but I think that's actually manageable because <span class="placeholder">[reason]</span>. What's the real risk I should be worried about with that option?
+:::
+
+::: {.notice-box}
+When you push back, the AI adjusts. It doesn't dig in. It takes your correction, incorporates it, and revises its analysis. This is what makes it useful as a thinking partner — it doesn't have ego. It also doesn't have full context about your life, so your pushback makes the analysis better.
+:::
+
+### Part 3: Pressure-Test Your Leaning
+
+If you're leaning toward one option, ask the AI to argue against it:
+
+::: {.followup-box}
+I'm leaning toward <span class="placeholder">[option]</span>. Play the other side. What's the strongest case against this choice? What could go wrong that I'm not giving enough weight to?
+:::
+
+::: {.notice-box}
+This is one of the most valuable things you can do with an AI assistant. Confirmation bias is real — we naturally seek information that supports what we already want to do. Asking the AI to argue the other side forces you to engage with the counterarguments before you commit.
+:::
+
+## An Important Caveat
+
+AI assistants don't know your values, your relationships, or the full texture of your life. They can organize information, surface tradeoffs, and play devil's advocate. They cannot tell you what the right decision is for you. Use them to think more clearly, not to outsource judgment.
+
+For anything involving legal, financial, or medical decisions, the AI can help you frame questions and understand options — but it's not a substitute for a professional who knows your specific situation.
+
+## Evaluate Honestly
+
+- Did the options analysis help you see the decision more clearly?
+- Was the "what you're not considering" section useful or generic?
+- When you pushed back, did the AI adjust in a meaningful way?
+- Did the devil's advocate response raise anything you genuinely hadn't weighted enough?
+
+::: {.try-it}
+**Go further if you want:** Try a different framing for the same decision. Instead of asking for options, paste in your decision and say: *"I've decided to [choice]. Write me a pre-mortem: assume this decision goes badly. What are the most likely reasons it failed?"* A pre-mortem is often more revealing than a pros-and-cons list.
+:::
+
+---
+
+[Next: Module 6 — Level Up →](06-level-up.qmd)
