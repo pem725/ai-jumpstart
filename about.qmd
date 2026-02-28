@@ -1,5 +1,7 @@
 ---
 title: "About This Course"
+date: last-modified
+date-format: "MMMM D, YYYY [at] h:mm A"
 ---
 
 ## Who Made This
