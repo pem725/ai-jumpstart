@@ -67,3 +67,4 @@ format:
     code-copy: true
     code-overflow: wrap
     highlight-style: github
+    link-external-newwindow: true
