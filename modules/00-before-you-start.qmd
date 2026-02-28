@@ -18,6 +18,15 @@ All three major AI assistants will work for this course. Pick whichever one you 
 
 No wrong answers here. They all handle the exercises in this course well.
 
+::: {.notice-box}
+**A note about free vs. paid tiers**
+
+Free tiers exist so you can kick the tires. But they run yesterday's models — slower, less capable, with tighter limits on how much you can do in a conversation. The paid tiers ($20/month for all three platforms) give you the current flagship models, longer conversations, and features like file uploads and deep research that change what's actually possible.
+
+Think of it this way: if someone handed you a flip phone and asked "is a smartphone useful?" — you'd get the wrong answer. Same thing here. Free tiers will let you follow along, but the paid models are where you'll start to see why people are excited about these tools. Try one month. Cancel if it's not worth it.
+:::
+
+
 
 ## Step 2: Create Your Account
 

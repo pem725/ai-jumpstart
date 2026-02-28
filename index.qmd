@@ -83,7 +83,7 @@ You don't need to do it all at once. Each module stands alone. But the course is
 - About 10–20 minutes per module
 - Willingness to try something and see what happens
 
-Free accounts work for everything in this course. Paid accounts give you more features and better models, but they're not required.
+Free accounts will technically get you through every exercise. But here's the honest truth: free tiers run older, smaller models with shorter limits. Judging AI from a free tier is like judging smartphones by using a flip phone — you'll see *something*, but you'll miss what actually makes the technology useful. If you're investing 90 minutes to learn what AI can do, spend the $20 for one month of a paid plan. You can cancel anytime. The difference in quality is not subtle.
 
 ---
 

@@ -5,6 +5,8 @@ subtitle: "Platform comparison and prompting cheat sheet"
 
 ## Platform Comparison
 
+All three platforms offer free tiers, but the paid plans ($20/month each) are where the real capability lives — current flagship models, longer context windows, and features like deep research and file creation. If you're serious about seeing what AI can actually do, the paid tier is the starting line, not the upgrade.
+
 | Feature | Claude | ChatGPT | Gemini |
 |---|---|---|---|
 | **Free tier** | Yes | Yes | Yes |
