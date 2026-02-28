@@ -4,7 +4,6 @@ project:
 
 website:
   title: "AI Jumpstart"
-  subtitle: "A hands-on course for anyone curious about AI assistants"
   navbar:
     background: dark
     left:
