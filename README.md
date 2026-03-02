@@ -44,6 +44,14 @@ quarto preview    # local dev server
 quarto render     # build to _site/
 ```
 
+## Share It
+
+Know someone who'd benefit? Scan or share:
+
+<p align="center">
+  <img src="images/qrcode.png" alt="QR code linking to AI Jumpstart" width="200">
+</p>
+
 ## License
 
 Free to use, share, and adapt. If you share it, point people back here so they get updates.

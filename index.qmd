@@ -88,3 +88,9 @@ Free accounts will technically get you through every exercise. But here's the ho
 ---
 
 Ready? [Start with setup →](modules/00-before-you-start.qmd)
+
+## Share This Course
+
+Know someone who's curious about AI but hasn't tried it yet? Send them here.
+
+![Scan to open AI Jumpstart](images/qrcode.png){width=200 fig-alt="QR code linking to pem725.github.io/ai-jumpstart"}
