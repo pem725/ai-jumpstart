@@ -177,6 +177,12 @@ A few suggestions:
 **Your final exercise:** Think of one recurring task in your life — something you do weekly or monthly that takes more time than it should. Open a new conversation and try to get the AI to help with it. Start specific. Iterate. Judge the result honestly. That's the whole method.
 :::
 
+## Recommended Next Steps
+
+If this course sparked your interest and you want to go deeper, Anthropic offers a free structured course that builds on many of the skills you practiced here:
+
+[AI Fluency Framework: Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations) — a more in-depth look at how to work effectively with AI, from the team that builds Claude.
+
 ---
 
 [Quick Reference →](../reference.qmd)
