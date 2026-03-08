@@ -9,22 +9,37 @@ subtitle: "Pick your tool, set it up, lock it down"
 
 All three major AI assistants will work for this course. Pick whichever one you already have an account on, or whichever sounds most interesting. You can always try another one later.
 
-| | Claude | ChatGPT | Gemini |
+| | [Claude](https://claude.ai) | [ChatGPT](https://chatgpt.com) | [Gemini](https://gemini.google.com) |
 |---|---|---|---|
 | **Made by** | Anthropic | OpenAI | Google |
-| **Website** | [claude.ai](https://claude.ai) | [chatgpt.com](https://chatgpt.com) | [gemini.google.com](https://gemini.google.com) |
 | **Free tier** | Yes | Yes | Yes |
-| **Good for** | Writing, analysis, long documents | General purpose, image generation | Google Workspace users, video |
+| **Paid plan** | [$20/mo (Pro)](https://claude.ai/upgrade) | [$20/mo (Plus)](https://chatgpt.com/pricing) | [$20/mo (Advanced)](https://one.google.com/intl/en/about/google-ai-plans/) |
+| **Best for** | [Writing & analysis](https://claude.com/product/overview), long documents | General purpose, [image generation](https://openai.com/index/introducing-4o-image-generation/) | [Google Workspace](https://workspace.google.com/solutions/ai/) users, [video & multimodal](https://gemini.google/overview/) |
+| **Memory** | ~150K words per conversation | ~96K words per conversation | ~750K words per conversation |
 
 No wrong answers here. They all handle the exercises in this course well.
 
 ::: {.notice-box}
 **A note about free vs. paid tiers**
 
-Free tiers exist so you can kick the tires. But they run yesterday's models — slower, less capable, with tighter limits on how much you can do in a conversation. The paid tiers ($20/month for all three platforms) give you the current flagship models, longer conversations, and features like file uploads and deep research that change what's actually possible.
+Free tiers exist so you can kick the tires. But they run yesterday's models — slower, less capable, with tighter limits on how much you can do in a conversation. The paid tiers give you the current flagship models, longer conversations, and features like file uploads and deep research that change what's actually possible.
 
 Think of it this way: if someone handed you a flip phone and asked "is a smartphone useful?" — you'd get the wrong answer. Same thing here. Free tiers will let you follow along, but the paid models are where you'll start to see why people are excited about these tools. Try one month. Cancel if it's not worth it.
 :::
+
+### What Your $20 Actually Buys {.unnumbered}
+
+Behind the scenes, AI platforms charge by *tokens* — roughly one token per word. Your $20/month subscription bundles hundreds or thousands of tasks at rates far below what you'd pay individually. Here's what typical tasks cost at current API rates (March 2026):
+
+| Task | Claude | ChatGPT | Gemini |
+|---|---|---|---|
+| Draft an email | ~$0.01 | ~$0.01 | ~$0.01 |
+| Analyze a 10-page document | ~$0.09 | ~$0.07 | ~$0.05 |
+| Extended research conversation | ~$0.30 | ~$0.23 | ~$0.16 |
+
+At those rates, $20 buys you somewhere between 65 and 2,000 tasks per month depending on complexity. Even moderate use pays for itself quickly.
+
+**What "memory" means in the table above:** Each platform can hold a different amount of text in a single conversation before it starts losing track of earlier parts. For the exercises in this course, all three have more than enough. The differences matter when you're working with very long documents or extended research sessions — Gemini can hold roughly 5x more context than Claude and 8x more than ChatGPT in a single conversation.
 
 
 
