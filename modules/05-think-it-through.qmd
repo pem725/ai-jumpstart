@@ -81,6 +81,10 @@ I'm leaning toward <span class="placeholder">[option]</span>. Play the other sid
 This is one of the most valuable things you can do with an AI assistant. Confirmation bias is real — we naturally seek information that supports what we already want to do. Asking the AI to argue the other side forces you to engage with the counterarguments before you commit.
 :::
 
+::: {.notice-box}
+You just used the AI to challenge confirmation bias in your own thinking. This same skill — getting an objective analysis before your emotions lock in — is powerful in interpersonal situations too. [Module 7](07-before-you-react.qmd) applies this lens to heated conversations and exchanges.
+:::
+
 ## An Important Caveat
 
 AI assistants don't know your values, your relationships, or the full texture of your life. They can organize information, surface tradeoffs, and play devil's advocate. They cannot tell you what the right decision is for you. Use them to think more clearly, not to outsource judgment.

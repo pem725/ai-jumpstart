@@ -61,6 +61,10 @@ I like the second version better. But soften the opening line — I don't want i
 You just gave editorial direction: keep this, change that, add something. The AI revised a specific part of the draft without losing the rest. This is the workflow — rough draft, then targeted edits through conversation. Much faster than staring at a blank compose window.
 :::
 
+::: {.notice-box}
+You just practiced crafting a difficult message. But AI can also help on the receiving end — when you get an email or message that puts your guard up, you can paste it in and ask for an objective read on what's actually being said versus what you're reacting to. [Module 7](07-before-you-react.qmd) goes deeper on this.
+:::
+
 ## A Note About Your Voice
 
 AI-drafted emails can sound generic if you don't give enough direction. The more specific you are about tone, audience, and what you want to accomplish, the more the output sounds like *you* instead of a template.

@@ -18,7 +18,7 @@ AI assistants get things wrong sometimes. They make stuff up occasionally. They'
 
 ## How the Course Works
 
-Six modules. Each one is a self-contained exercise you can finish in 10–20 minutes. Do them in order or skip to whatever interests you — but **start with "Before You Start"** to get your tool set up.
+Seven modules. Each one is a self-contained exercise you can finish in 10–20 minutes. Do them in order or skip to whatever interests you — but **start with "Before You Start"** to get your tool set up.
 
 ::: {.module-card}
 ### [Before You Start](modules/00-before-you-start.qmd) {.unlisted .unnumbered}
@@ -69,7 +69,14 @@ Bring a real decision you're weighing. Use the AI as a thinking partner to map o
 Advanced features, iteration techniques, and how to make the AI dramatically more useful over time.
 :::
 
-## Total Time: About 90 Minutes
+::: {.module-card}
+### [Module 7: Before You React](modules/07-before-you-react.qmd) {.unlisted .unnumbered}
+[15 minutes]{.module-time}
+
+Paste a heated exchange into AI and see the mechanics underneath — the fallacies, biases, and escalation patterns invisible when you're in the middle of it.
+:::
+
+## Total Time: About 105 Minutes
 
 You don't need to do it all at once. Each module stands alone. But the course is designed so that each one builds a little on the skills you practiced in the last.
 

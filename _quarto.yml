@@ -25,6 +25,8 @@ website:
             text: "Module 5: Think It Through"
           - href: modules/06-level-up.qmd
             text: "Module 6: Level Up"
+          - href: modules/07-before-you-react.qmd
+            text: "Module 7: Before You React"
       - href: reference.qmd
         text: Quick Reference
       - href: about.qmd
@@ -49,6 +51,7 @@ website:
         - section: "Going Further"
           contents:
             - modules/06-level-up.qmd
+            - modules/07-before-you-react.qmd
         - section: "Resources"
           contents:
             - reference.qmd

@@ -165,7 +165,7 @@ As you use AI assistants more, you'll discover their edges. It's worth knowing t
 
 ## What to Do Next
 
-There's no Module 7. From here, the best way to learn is to use the tool on real tasks. Every time you face a task that involves writing, researching, organizing, analyzing, or thinking through a decision, try running it through your AI assistant first. Some tasks it'll handle well. Some it won't. Over time, you'll develop intuition for what it's good at and where it falls short.
+From here, the best way to learn is to use the tool on real tasks. Every time you face a task that involves writing, researching, organizing, analyzing, or thinking through a decision, try running it through your AI assistant first. Some tasks it'll handle well. Some it won't. Over time, you'll develop intuition for what it's good at and where it falls short.
 
 A few suggestions:
 
@@ -185,4 +185,4 @@ If this course sparked your interest and you want to go deeper, Anthropic offers
 
 ---
 
-[Quick Reference →](../reference.qmd)
+[Next: Module 7 — Before You React →](07-before-you-react.qmd)

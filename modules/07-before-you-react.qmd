@@ -1,0 +1,106 @@
+---
+title: "Module 7: Before You React"
+subtitle: "Use AI to see what's really happening in a heated exchange"
+---
+
+[15 minutes]{.time-estimate}
+
+## What You'll Practice
+
+- Pasting a real conversation or exchange into AI and asking for objective analysis
+- Getting the AI to identify logical fallacies, biases, and escalation patterns
+- Sitting with an analysis that might challenge your initial read
+- Using the pause between "something happened" and "here's what I think about it"
+
+## Why Interactions?
+
+Up to now, you've used AI to produce things and to think through decisions. This module is about something different: **understanding what's actually happening in a conversation before you respond to it.**
+
+Think about the last time you saw a comment thread blow up on social media. Or the last time a group text got tense. Or an email chain at work where people started talking past each other. In the moment, it's hard to see the full picture. You're reacting to tone. You're defending your position. The exchange is moving fast and you're in it.
+
+AI doesn't have a stake in the argument. It didn't get its feelings hurt. It's not trying to win. That makes it surprisingly useful for a specific task: showing you the mechanics of what's happening in an exchange — the assumptions, the logical leaps, the emotional triggers — before you decide how to respond.
+
+## The Exercise
+
+### Part 1: Bring a Real Exchange
+
+Think of a conversation that went sideways — a social media comment thread, a group chat argument, a tense email chain, a neighborhood forum debate. Copy the text and paste it into a new conversation:
+
+::: {.prompt-box}
+Here's a conversation that got heated. I want you to analyze what's actually happening — not who's right or wrong, but the mechanics of the exchange.
+
+<span class="placeholder">[paste the conversation]</span>
+
+Please:
+
+1. Summarize the original event or question as neutrally as possible
+2. Identify the logical fallacies or unsupported assumptions people are making
+3. Point out where confirmation bias is showing up — where are people filtering out information that doesn't fit what they already believe?
+4. Show me the escalation pattern — what moments turned this from a conversation into a conflict?
+5. Based only on what's actually stated as fact, what are the most likely explanations for what happened, ranked by probability?
+:::
+
+**Don't have an exchange handy?** Use this scenario:
+
+> *Someone posts in a neighborhood forum that three teenagers stood on their front porch for five minutes talking loudly, then left without knocking. They didn't go to the neighbors' houses. The poster is worried. Within 48 comments, the thread has become an argument about guns, home security, immigration, and whether the poster is overreacting — and nobody has resolved the original question.*
+
+::: {.notice-box}
+Look at how the AI separated the event from the reactions. It probably found that the actual facts were thin — a few observations, no direct evidence of anything — and that the thread filled in the gaps with assumptions, not information. Most heated exchanges work this way: a low-information event plus anxiety plus an audience equals escalation.
+:::
+
+### Part 2: Compare to Your Gut Reaction
+
+Before you read the AI's full analysis, ask yourself: when you first read that exchange, whose side were you on? What was your instinct?
+
+Now read the AI's analysis carefully. Then ask:
+
+::: {.followup-box}
+Compare your analysis to how most people in the thread actually responded. Why did the conversation go where it went instead of toward the most probable explanation?
+:::
+
+::: {.notice-box}
+The AI likely identified that the exchange was driven more by anxiety, identity, and emotional momentum than by evidence. Most arguments follow this pattern. The AI can see it because it's not *in* the exchange. You can learn to see it too — but it starts with pausing before reacting.
+:::
+
+### Part 3: Turn the Lens on Yourself
+
+Here's where this gets genuinely useful and genuinely uncomfortable:
+
+::: {.followup-box}
+Now be honest with me. If I had been in that conversation, which cognitive biases would I most likely have fallen into? What assumptions would I have made, based on how I initially reacted when reading the exchange?
+:::
+
+::: {.notice-box}
+The AI's answer might sting a little. It might tell you that you'd have jumped to conclusions too, or that the position you instinctively agreed with wasn't well-supported by the actual facts. That discomfort is the point. It's not that the AI is right about *you* specifically — it doesn't know you. It's that seeing your own reflexive patterns described neutrally gives you something you almost never get in real exchanges: a moment to reconsider before the emotional momentum carries you forward. This is a skill that improves with practice. The discomfort doesn't go away, but what you do with it changes.
+:::
+
+## Why This Matters Beyond Comment Threads
+
+This isn't just a social media trick. The same pattern — event happens, assumptions fill the gaps, emotions escalate, positions harden — shows up everywhere:
+
+- **Work:** An email gets misread as passive-aggressive and the reply escalates it
+- **Family:** A comment at dinner gets interpreted through years of history instead of what was actually said
+- **Relationships:** A small disagreement snowballs because both people are responding to what they think the other person *meant* rather than what they *said*
+
+In each case, the skill is the same: get a clearer picture of what's actually happening before your interpretation hardens into your reality.
+
+## An Important Caveat
+
+AI's objectivity has limits. It can identify logical patterns and common biases, but it doesn't understand the full history between people. It can't feel the weight of a comment that references something painful from years ago. And its analysis may carry its own subtle tendencies — toward moderation, toward "both sides have a point," toward resolution even when one party genuinely did something wrong.
+
+Use it as a lens, not a verdict. The goal isn't to outsource your judgment about people to a machine. The goal is to build a habit: **pause, get a clearer picture, then decide how you want to respond.**
+
+## Evaluate Honestly
+
+- Did the AI's analysis show you something about the exchange you hadn't noticed?
+- Was there a moment where the analysis challenged your initial reaction? How did that feel?
+- Could you see yourself using this before responding to a heated message or thread?
+- Did the probability ranking of explanations differ from where the conversation actually went?
+
+::: {.try-it}
+**Go further if you want:** Next time you're about to respond to something that has your emotions up — a comment thread, a text, an email — pause. Paste it into your AI assistant first. Ask for the same layered analysis. You don't have to agree with everything it says. But read it before you hit send. Try this three times over the next week and notice whether the pause changes anything about how you respond.
+:::
+
+---
+
+[← Back to Module 6](06-level-up.qmd) | [Quick Reference →](../reference.qmd)
